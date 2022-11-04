@@ -1,0 +1,1 @@
+darknet detector train cfg_mask/obj.data cfg_mask/yolov4-custom.cfg cfg_mask/yolov4.conv.137
