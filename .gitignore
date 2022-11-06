@@ -1,1 +1,5 @@
 dataset/*
+yolo/*
+darknet_gpu/*
+cfg_mask/weights/*
+cfg_mask/*.137
