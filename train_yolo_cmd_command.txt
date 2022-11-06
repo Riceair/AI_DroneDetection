@@ -2,4 +2,4 @@ train:
 darknet detector train cfg_mask/obj.data cfg_mask/yolov4-custom.cfg cfg_mask/yolov4.conv.137
 
 test:
-darknet detector test ../cfg_mask/obj.data ../cfg_mask/yolov4-custom.cfg ../cfg_mask/weights/yolov4-custom_final.weights ../dataset/public/img1001.png
+darknet detector test ../cfg_mask/obj.data ../cfg_mask/yolov4-custom.cfg ../cfg_mask/weights/yolov4-custom_final.weights ../dataset/public/img1332.png
